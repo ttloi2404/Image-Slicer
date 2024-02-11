@@ -1,5 +1,4 @@
 # Gratitude
-
 I extend my deepest gratitude to the following individuals and resources for their invaluable contributions to this project:
 
 * **ClearCode**: For generously providing the CustomTkinter template, which serves as the bedrock of this application. The insightful tutorial can be found [here](https://www.youtube.com/watch?v=mop6g-c5HEY).
@@ -22,5 +21,5 @@ I extend my deepest gratitude to the following individuals and resources for the
 - Add: Independently select objects; press Enter to confirm.
 
 # Demo
+![demo](https://github.com/ttloi2404/Image-Slicer/assets/159598028/aa05e42d-84bb-4011-8b75-eba131650b19)
 
-![Demo](https://github.com/ttloi2404/Image-Slicer/assets/159598028/edfd12c6-fa09-44db-806f-ad233960c971)
