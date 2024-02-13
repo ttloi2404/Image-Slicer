@@ -1,6 +1,8 @@
 # Gratitude
 I extend my deepest gratitude to the following individuals and resources for their invaluable contributions to this project:
 
+* **Isometric8**: I created this program based on Isometric8's Sprite Sheet Slicer software. You can find it [here](https://isometric8.itch.io/sprite-sheet-slicer).
+
 * **ClearCode**: For generously providing the CustomTkinter template, which serves as the bedrock of this application. The insightful tutorial can be found [here](https://www.youtube.com/watch?v=mop6g-c5HEY).
 
 * **Tuaplicacionpropia**: For crafting the main algorithm that serves as the backbone of our image slicing functionality. The implementation details can be explored [here](https://gist.github.com/tuaplicacionpropia/f5bd6b0f69a11141767387eb789f5093).
