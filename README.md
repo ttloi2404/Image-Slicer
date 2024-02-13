@@ -10,17 +10,22 @@ I extend my deepest gratitude to the following individuals and resources for the
 * **Cainos**: For graciously offering the pixel art showcased in the video demonstration below. Cainos's creative work can be accessed [here](https://cainos.itch.io/pixel-art-top-down-basic).
 
 * All the dedicated developers and contributors behind the libraries utilized in this application. Their unwavering commitment and hard work have been instrumental in shaping this project.
+# Instructions for Auto Detection:
+## Basic Settings:
+- **Min Width, Min Height:** Define the minimum dimensions of a rectangle; any objects smaller than this will merge with another object.
+- **Alpha Threshold:** Pixels with an alpha value lower than this threshold are considered part of the background.
+- **Number of Cores:** Adjust the number of CPU cores used for processing images; increase for faster processing with large images.
+- **Background Color:** Current background color.
+- **Choose Color:** Use this button to select a single pixel in the image as the background color.
+- **Detect:** Initiate object detection.
 
-# Instructions for using Auto Detection:
-- Min Width, Min Height: Specify the minimum size of a rectangle; any objects smaller than this will merge with another object.
-- Alpha Threshold: Pixels with an alpha value lower than this threshold are considered part of the background.
-- Number of Cores: Adjust the number of CPU cores utilized for processing images; increase for faster processing with large images.
-- Background Color: Current background color.
-- Choose Color: Use this button to select a single pixel in the image as the background color.
-- Detect: Initiate object detection.
-- Merge: Select objects by dragging or clicking; press Enter to merge them.
-- Delete: Similar to Merge, but deletes selected objects.
-- Add: Independently select objects; press Enter to confirm.
+## Enhanced Features of Auto-Detection Mode:
+Harness the power of additional utility tools to refine your results:
+- **Merge:** Combine detected sprites into single units, ideal for overlapping elements or creating larger objects.
+- **Delete:** Easily remove unwanted sprites from the selection with a single click.
+- **Add:** Restore accidentally deleted sprites or include additional ones for comprehensive control.
+  
+*Note: After performing the operations, press Enter to confirm.*
 
 # Demo
 ![demo](https://github.com/ttloi2404/Image-Slicer/assets/159598028/aa05e42d-84bb-4011-8b75-eba131650b19)
